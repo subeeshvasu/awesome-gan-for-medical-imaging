@@ -55,8 +55,8 @@ To complement or correct it, please contact me at xiy525@mail.usask.ca or send a
 - [Multi-input and dataset-invariant adversarial learning (MDAL) for left and right-ventricular coverage estimation in cardiac MRI] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Multi-Input+and+Dataset-Invariant+Adversarial+Learning+%28MDAL%29+for+Left+and+Right-Ventricular+Coverage+Estimation+in+Cardiac+MRI&btnG=) [[MICCAI2018]](https://link.springer.com/chapter/10.1007/978-3-030-00934-2_54)
 - [Spine-GAN: Semantic segmentation of multiple spinal structures] [[scholar]](https://scholar.google.ca/scholar?hl=en&as_sdt=0%2C5&q=Spine-GAN%3A+Semantic+segmentation+of+multiple+spinal+structures&btnG=) [[MedIA]](https://www.medicalimageanalysisjournal.com/article/S1361-8415(18)30642-X/abstract)
 - [Adversarial Networks for the Detection of Aggressive Prostate Cancer] [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=dversarial+Networks+for+the+Detection+of+Aggressive+Prostate+Cancer&btnG=) [[arXiv]](https://arxiv.org/abs/1702.08014)
-
-
+- [TopoAL: An Adversarial Learning Approach for Topology-Aware Road Segmentation] [[scholar]](https://scholar.google.co.in/scholar?hl=en&as_sdt=0%2C5&q=TopoAL%3A+An+Adversarial+Learning+Approach+for+Topology-Aware+Road+Segmentation&btnG=) [[arXiv]](https://arxiv.org/abs/2007.09084)
+- [TopoGAN: A Topology-Aware Generative Adversarial Network] [[scholar]](https://scholar.google.co.in/scholar?hl=en&as_sdt=0%2C5&q=TopoGAN%3A+A+Topology-Aware+Generative+Adversarial+Network&btnG=) [[arXiv]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480120.pdf)
 
 # Detection
 - [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery] [[scholar]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+Anomaly+Detection+with+Generative+Adversarial+Networks+to+Guide+Marker+Discovery&btnG=) [[arXiv]](https://arxiv.org/abs/1703.05921)
